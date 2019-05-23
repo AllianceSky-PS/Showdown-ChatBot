@@ -14,7 +14,7 @@ module.exports = Config;
 
 Config.Static_Admin_Account = "Impulse";
 
-Config.Static_Admin_Account_Password = "impulse test";
+Config.Static_Admin_Account_Password = "impulsetest";
 
 /**
  * Data Mode:
